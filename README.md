@@ -32,9 +32,9 @@ This returns an array of the different strings to output as the following:
 
 ## Distribution
 
-[Minified]()
+[Minified - https://unpkg.com/browsercolorlogs@0.0.3/dist/index.js](https://unpkg.com/browsercolorlogs@0.0.2/dist/index.js)
 
-[Full]()
+[Full - https://unpkg.com/browsercolorlogs@0.0.3/index.js](https://unpkg.com/browsercolorlogs@0.0.2/index.js)
 
 ## Related packages
 
