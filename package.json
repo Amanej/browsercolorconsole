@@ -1,0 +1,33 @@
+{
+  "name": "browsercolorlogs",
+  "version": "0.0.1",
+  "description": "A tool to help you color browser console logs",
+  "browser": "dist/index.js",
+  "unpkg": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amanej/browsercolorconsole.git"
+  },
+  "keywords": [
+    "color",
+    "console",
+    "log",
+    "browser",
+    "console",
+    "color",
+    "effect",
+    "text",
+    "color",
+    "browser",
+    "console.log"
+  ],
+  "author": "Aman Mender",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amanej/browsercolorconsole/issues"
+  },
+  "homepage": "https://github.com/Amanej/browsercolorconsole#readme"
+}
