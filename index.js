@@ -1,3 +1,4 @@
+// Credits to - https://stackoverflow.com/questions/7505623/colors-in-javascript-console
 const browserLogColors = {
     color:(string,hexcode,bgcolor) => {
         let base = [`${'%c '}${string}`]; 
@@ -19,3 +20,5 @@ const browserLogColors = {
         }
     }
 }
+
+module.exports = browserLogColors;
