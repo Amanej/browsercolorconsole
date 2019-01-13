@@ -20,5 +20,3 @@ const browserLogColors = {
         }
     }
 }
-
-module.exports = browserLogColors;
