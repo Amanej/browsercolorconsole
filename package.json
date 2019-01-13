@@ -1,6 +1,6 @@
 {
   "name": "browsercolorlogs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A tool to help you color browser console logs",
   "browser": "dist/index.js",
   "unpkg": "dist/index.js",
